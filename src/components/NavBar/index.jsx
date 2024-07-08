@@ -5,7 +5,7 @@ export default function NavBar() {
   return (
     <header>
       <nav className="navbar">
-        <div className="logo">Personal Homepage</div>
+        <div className="logo">Welcome to my Homepage</div>
         <div className="menu">
           <ul>
             <li>
